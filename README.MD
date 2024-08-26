@@ -1,24 +1,28 @@
-``Sistema de Cadastro e Login
-Um sistema simples para login e cadastro de usuários, com funcionalidades básicas de gestão.``
+*``Sistema de Cadastro e Login``
 
-Funcionalidades
+![](tela.png)
 
-Login: Valida e redireciona para a página de cadastro.
-Cadastro: Adiciona usuários com nome e e-mail.
-Gestão de Usuários: Edita e exclui usuários da lista.
-Uso
-Login:
+ele e um sistema para login e cadastro de usuários
 
-Preencha e-mail e senha.
+*``Funcoes``
+login Ele verifica e manda para a página de cadastro.
+
 Clique em "Login" para ser redirecionado para o cadastro.
-Cadastro:
+Cadastro
 
-Insira nome e e-mail.
-Clique em "Salvar" para adicionar o usuário à lista.
-Gestão:
+*``cadastro e-mail e senha.``
 
-Editar: Atualize informações do usuário.
-Excluir: Remova o usuário da lista.
+ Cadastro: verifica se foi colocado usuários com nome e e-mail corretamente, caso contrario aparecera uma mensagem de alerta.
+
+*``funcoes para ajudar ``
+ 
+  Edita e exclui usuários da lista.``
+
+  **``depois desses processos, clique em salvar e sera enviado seu cadastro.``
+
+
+
+
 
 
 
