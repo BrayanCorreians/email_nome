@@ -14,6 +14,8 @@ Cadastro
 
  Cadastro: verifica se foi colocado usuários com nome e e-mail corretamente, caso contrario aparecera uma mensagem de alerta.
 
+![](<Captura de tela 2024-08-26 103243.png>)
+
 *``funcoes para ajudar ``
  
   Edita e exclui usuários da lista.``
