@@ -24,7 +24,7 @@ Este projeto consiste em um sistema simples de cadastro e login. A telaa de logi
 
 ![](tela.png)
 
-## Instruções para Rodar o Projeto
+## Instruções para Rodar o Projeto.
 1. Clone o repositório em sua máquina local.
 2. Abra o projeto utilizando um editor de código, como o Visual Studio Code.
 3. Certifique-se de ter todas as dependências instaladas (se necessário).
