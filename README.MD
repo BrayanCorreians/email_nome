@@ -22,7 +22,7 @@ Este projeto consiste em um sistema simples de cadastro e login. A telaa de logi
 ## Imagens
 
 ## Alerta 
-![](Captura%20de%20tela%202024-08-26%20103243.png)
+![](telacadastro.png)
 
 ## Imagem da tela de login
 ![](telaazul.png)
