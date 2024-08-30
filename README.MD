@@ -24,7 +24,6 @@ Este projeto consiste em um sistema simples de cadastro e login. A telaa de logi
 
 ![](tela.png)
 
-![Captura de Tela](Captura%20de%20tela%202024-08-26%20103243.png)
 ## Instruções para Rodar o Projeto
 1. Clone o repositório em sua máquina local.
 2. Abra o projeto utilizando um editor de código, como o Visual Studio Code.
