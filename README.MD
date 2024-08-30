@@ -20,8 +20,15 @@ Este projeto consiste em um sistema simples de cadastro e login. A telaa de logi
   - Os dados serão enviados e armazenados no sistema após a verificação.
   
 ## Imagens
+
+## Alerta 
 ![](Captura%20de%20tela%202024-08-26%20103243.png)
 
+## Imagem da tela de login
+![](telaazul.png)
+
+
+## Cadastro salvando
 ![](tela.png)
 
 ## Instruções para Rodar o Projeto.
